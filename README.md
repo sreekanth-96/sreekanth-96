@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sreekanth-96
+- 👀 I’m interested in Devops engineer
+- 🌱 I’m currently learning Devops,Microsoft azure.
+- 📫 How to reach me sreekanthreddyp96@gmail.com
